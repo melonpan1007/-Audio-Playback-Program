@@ -8,3 +8,5 @@ This Java program allows users to play, stop, reset, or quit an audio file using
 - **Stop**: Pause the audio playback.
 - **Reset**: Restart the audio file from the beginning.
 - **Quit**: Exit the program.
+
+##Recommned to save the Audio file in the same directory of the Main file that is "src".
